@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: GraphSON Importer Plugin
+OpenIDE-Module-Short-Description: GraphSON importer for Gephi
+OpenIDE-Module-Long-Description: GraphSON importer for Gephi
+OpenIDE-Module-Display-Category: Import

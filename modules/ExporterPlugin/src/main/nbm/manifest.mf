@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: GraphSON Exporter Plugin
+OpenIDE-Module-Short-Description: GraphSON exporter for Gephi
+OpenIDE-Module-Long-Description: GraphSON exporter for Gephi
+OpenIDE-Module-Display-Category: Export
